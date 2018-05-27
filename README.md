@@ -23,7 +23,7 @@ According to the source code uploaded We will calculate this ratio.
 ![gif](/final_gif.gif)
 
 ## :zap:
-I am greatly influenced from ![here](http://www.physics.ohio-state.edu/%7Eorban/math_coding/pi_graphical/index.html).
-![Here](https://www.youtube.com/watch?v=9_CuOAfGl7I) is the full video. 
+I am greatly influenced from [here](http://www.physics.ohio-state.edu/%7Eorban/math_coding/pi_graphical/index.html).
+[Here](https://www.youtube.com/watch?v=9_CuOAfGl7I) is the full video. 
 
 :zap:
